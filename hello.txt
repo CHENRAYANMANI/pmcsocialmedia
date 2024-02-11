@@ -1,0 +1,4 @@
+clientid:1045148982383-87u6hh6sn8fqish7dgr0ob8gvi7059kn.apps.googleusercontent.com
+
+
+Client secret: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
